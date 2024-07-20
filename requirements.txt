@@ -1,0 +1,3 @@
+aiohttp
+tweepy
+python-dotenv
